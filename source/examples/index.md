@@ -9,6 +9,11 @@ links:
   - group: '版本：^3.0 <sup><code>beta</code></sup>'
     desc: 支持 Pjax 和 Artitalk
     items:
+    - name: HESON
+      url: https://heson.xyz
+      avatar: https://cdn.jsdelivr.net/gh/heson525/heson525.github.io@master/images/avatar03.png
+      tags: [Hexo,WordPress]
+      desc: [人生在勤，不索何获] 
     - name: xaoxuu
       url: https://xaoxuu.com
       avatar: https://i.loli.net/2020/04/26/lmJ1xrQ2KR9YZiz.jpg
