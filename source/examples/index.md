@@ -51,6 +51,11 @@ links:
       url: https://www.zyoushuo.cn/
       avatar: https://cdn.jsdelivr.net/gh/zyoushuo/Blog/images/photo.jpg
       desc: [聪明的妖怪已经录下了唐僧的紧箍咒]
+    - name: 黑石博客
+      url: https://heson.xyz
+      avatar: https://cdn.jsdelivr.net/gh/heson525/heson525.github.io@master/images/avatar03.png
+      tags: [折腾HEXO]
+      desc: [人生在勤，不索何获]
   - group: '版本：^2.5～2.6'
     desc: 新增 Group、References 组件；新增 Checkbox、Radio、Image、Video 等标签
     items:
